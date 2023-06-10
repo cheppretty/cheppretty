@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cheppretty
-- 👀 I’m interested in becoming a software engineer..
+- 👀 I’m software engineer..
 - 🌱 I’m currently learning  php 
 - 💞️ currently working at cisco ihub as a full stack engineer
 - How to reach me  cheppretty4@gmail.com 
